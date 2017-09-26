@@ -1,4 +1,4 @@
-import DummyClass from "../src/--libraryname--"
+import DummyClass from "../src/popper-react"
 
 /**
  * Dummy test
